@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Favooor
 
-You can use the [editor on GitHub](https://github.com/brandonhlk/test-ghpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Through crowdsourcing _(read as collective wisdom)_, favooor is the #1 problem-solving community for creative works or tedious errands!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### We have a favor to ask from you
 
-### Markdown
+- Have a problem, errand or question that needs solving?
+- Interested in problem-solving and co-creation?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<button>Join our discord server now!</button>
+
+### Why join us
+
+1. Make some chum change from running errands to winning prize monies from challenges. 
+2. Get reconginized for your efforts on our hall of fame.
+3. Earn favors when you complete tasks out of goodwill.
+4. Get any kind of chore done or any difficult problem solved as long as someone within the community is capable. Favooor will try it's best to match problems to potential solvers. 
+5. Be part of a community that believes in open innovation and altruism. Part of proceeds goes to our community chest to further develop the platform and help other causes and charity organizations.
 
 ```markdown
-Syntax highlighted code block
+**Community Chest**
+Current reserves: $0
+Total so far: $0
 
-# Header 1
-## Header 2
-### Header 3
+**Hall of Fame**
+No one yet
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandonhlk/test-ghpages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
